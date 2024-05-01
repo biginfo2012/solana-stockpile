@@ -7,13 +7,6 @@
 <h1 align="center">Stockpile v2</h1>
 <div align="center">
   <h3>Funding Without Barriers.</h3>
-  <div align="center">
-    <a href="https://stockpile.pro">Website</a>
-    •
-    <a href="https://twitter.com/GoStockpile">Twitter</a>
-    •
-    <a href="https://twitter.com/GoStockpile">LinkedIn</a>
-  </div>
 </div>
 <br>
 <h2>Overview</h2>
